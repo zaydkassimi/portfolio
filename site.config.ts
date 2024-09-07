@@ -1,6 +1,6 @@
 export const siteConfig = {
     name: "Zayd Kassimi - Portfolio",
-    description: "Explore the portfolio of Sohail Koutari, a skilled Full-Stack Developer with expertise in React, Next.js, Node.js, and other modern web technologies. Specializing in dynamic web applications, problem-solving, and collaborative projects.",
+    description: "Explore the portfolio of Zayd Kassimi, a skilled Full-Stack Developer with expertise in React, Next.js, Node.js, and other modern web technologies. Specializing in dynamic web applications, problem-solving, and collaborative projects.",
     logo: {
       url: "/favicon-dark.svg", // Fallback logo if needed
       href: "/favicon-dark.svg"  // Fallback href if needed
@@ -10,7 +10,7 @@ export const siteConfig = {
       author: "Zayd Kassimi",
       viewport: "width=device-width, initial-scale=1",
       "og:title": "Zayd Kassimi - Professional Web Developer Portfolio",
-      "og:description": "Explore the portfolio of Sohail Koutari, showcasing expertise in modern web technologies and collaborative projects.",
+      "og:description": "Explore the portfolio of Zayd Kassimi, showcasing expertise in modern web technologies and collaborative projects.",
       "og:type": "website",
       "og:url": "https://zaydkassimi.vercel.app/",
       "og:image": "/favicon-dark.svg",
@@ -25,7 +25,7 @@ export const siteConfig = {
       "name": "Zayd Kassimi",
       "url": "https://zaydkassimi.vercel.app/",
       "sameAs": [
-        "https://www.linkedin.com/in/Your-Namei",
+        "https://www.linkedin.com/in/zaydkassimi",
         "https://github.com/your-username",
         "https://gitlab.com/your-username",
         "https://discord.com/users/your-id",
